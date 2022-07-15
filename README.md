@@ -1,4 +1,4 @@
-### 你好 Hello Hola مرحبًا こんにちは 안녕하십니까 👋
+### 你好 Hello Hola Привет, товарищ مرحبًا こんにちは 안녕하십니까 👋
 
 - 💻 A front-end developer.
 - 🐶 Have a dog, breed is Akita Inu.
